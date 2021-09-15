@@ -1,0 +1,3 @@
+DBurl=jdbc:mysql://localhost:3306/studentdb?allowPublicKeyRetrieval=true&useSSL=false&serverTimezone=GMT
+User=root
+Pass=abcd
